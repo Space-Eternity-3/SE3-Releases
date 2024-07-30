@@ -1,6 +1,6 @@
 # SE3-Releases
 
 > [!WARNING]  
-> Space Eternity 3 was open sourced.
+> Space Eternity 3 has been open-sourced!
 >
-> Please use the [releases page](https://github.com/Space-Eternity-3/Space-Eternity-3/releases) in the [source code repo](https://github.com/Space-Eternity-3/Space-Eternity-3) for new releases.
+> For the latest releases, please visit the [releases page](https://github.com/Space-Eternity-3/Space-Eternity-3/releases) in the [source code repository](https://github.com/Space-Eternity-3/Space-Eternity-3).
